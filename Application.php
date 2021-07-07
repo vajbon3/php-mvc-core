@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace vajbon3\mvc;
 
 use app\controllers\Controller;
-use app\core\db\Database;
+use vajbon3\mvc\db\Database;
 
 class Application
 {

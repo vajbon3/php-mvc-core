@@ -7,5 +7,12 @@
             "email": "notvaja@gmail.com"
         }
     ],
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "vajbon3\\mvc\\": "."
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
 }

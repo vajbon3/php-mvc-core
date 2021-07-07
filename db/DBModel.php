@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core\db;
+namespace vajbon3\mvc\db;
 
 
-use app\core\Application;
+use vajbon3\mvc\Application;
 use app\models\Model;
 
 abstract class DBModel extends Model

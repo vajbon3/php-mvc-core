@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace vajbon3\mvc;
 
 
-use app\core\db\DBModel;
+use vajbon3\mvc\db\DBModel;
 
 abstract class UserModel extends DBModel
 {

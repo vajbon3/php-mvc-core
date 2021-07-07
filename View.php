@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace vajbon3\mvc;
 
 
 class View

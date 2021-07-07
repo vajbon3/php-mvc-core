@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace vajbon3\mvc;
 
 use app\controllers\Controller;
-use app\core\exceptions\NotFoundException;
+use vajbon3\mvc\exceptions\NotFoundException;
 
 class Router
 {

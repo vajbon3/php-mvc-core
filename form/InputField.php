@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\form;
+namespace vajbon3\mvc\form;
 
 
 use app\models\Model;

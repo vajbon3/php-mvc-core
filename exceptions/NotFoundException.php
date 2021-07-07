@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\exceptions;
+namespace vajbon3\mvc\exceptions;
 
 
 class NotFoundException extends \Exception

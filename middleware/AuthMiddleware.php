@@ -1,11 +1,11 @@
 <?php
 
 
-namespace app\core\middleware;
+namespace vajbon3\mvc\middleware;
 
 
-use app\core\Application;
-use app\core\exceptions\ForbiddenException;
+use vajbon3\mvc\Application;
+use vajbon3\mvc\exceptions\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

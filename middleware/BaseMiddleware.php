@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core\middleware;
+namespace vajbon3\mvc\middleware;
 
 
 abstract class BaseMiddleware
