@@ -1,0 +1,11 @@
+{
+    "name": "vajbon3/mvc-core",
+    "description": "custom MVC framework core",
+    "authors": [
+        {
+            "name": "vajbon3",
+            "email": "notvaja@gmail.com"
+        }
+    ],
+    "require": {}
+}
